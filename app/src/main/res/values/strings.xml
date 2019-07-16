@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="title_activity_b">ActivityB</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="title_activity_c">ActivityC</string>
+    <string name="title_activity_d">ActivityD</string>
+    <string name="title_activity_e">ActivityE</string>
+</resources>
